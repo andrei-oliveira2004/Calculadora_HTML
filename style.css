@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'cursiva',sans-serif;
+}
+body{
+    background-color: rgba(16, 144, 161, 0.801);
+}
+.calculator{
+    width: 400px;
+    left: 50%;
+}
